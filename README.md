@@ -13,12 +13,12 @@ Your clipboard now has the value to be pasted into a `<map><area coords>` tag.<b
 - Clone this repository.
 `git clone git@github.com:fde-capu/htmap`
 
-- Soft link all to your `pykrita` directory.
+- Copy all to your `pykrita` directory.
   Example for Linux:
   - Make sure the directory exists:
   `mkdir -p ~/.local/share/krita/pykrita`
-  - Do the linkage:
-  `ln -s htmp/* ~/.local/share/krita/pykrita`
+  - Do the copying:
+  `cp -r htmap/* ~/.local/share/krita/pykrita`
 
 This is how it will look like:
 
