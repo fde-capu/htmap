@@ -27,8 +27,7 @@ This is how it will look like:
   ├── htmap
   │   ├── htmap.py
   │   ├── __init__.py
-  │   ├── Manual.html
-  │   └── README.md
+  │   └── Manual.html
   └── htmap.desktop
 ```
 
