@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=htmap
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=htmap
+Comment=Copy HTML Map Coordinates to clipboard.
+X-KDE-PluginInfo-Author=fde-capu
+X-KDE-PluginInfo-Email=flavio@carrara.us
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/fde-capu/htmap
+X-KDE-PluginInfo-License=GPL
