@@ -19,6 +19,8 @@ Your clipboard now has the value to be pasted into a `<map><area coords>` tag.<b
   `mkdir -p ~/.local/share/krita/pykrita`
   - Do the copying:
   `cp -r htmap htmap.desktop ~/.local/share/krita/pykrita`
+  - In Krita, go to Settings > Configure Krita > Python Plugin Manager >
+    [x] check HTMap. Restart Krita.
 
 This is how it will look like:
 
