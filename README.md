@@ -18,7 +18,7 @@ Your clipboard now has the value to be pasted into a `<map><area coords>` tag.<b
   - Make sure the directory exists:
   `mkdir -p ~/.local/share/krita/pykrita`
   - Do the copying:
-  `cp -r htmap/* ~/.local/share/krita/pykrita`
+  `cp -r htmap htmap.desktop ~/.local/share/krita/pykrita`
 
 This is how it will look like:
 
